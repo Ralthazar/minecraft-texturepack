@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "block/xray/purpur_pillar" },
+        "axis=z": { "model": "block/xray/purpur_pillar", "x": 90 },
+        "axis=x": { "model": "block/xray/purpur_pillar", "x": 90, "y": 90 }
+    }
+}

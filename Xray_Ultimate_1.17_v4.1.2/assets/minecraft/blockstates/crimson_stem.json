@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "block/xray/crimson_stem" },
+        "axis=z": { "model": "block/xray/crimson_stem", "x": 90 },
+        "axis=x": { "model": "block/xray/crimson_stem", "x": 90, "y": 90 }
+    }
+}

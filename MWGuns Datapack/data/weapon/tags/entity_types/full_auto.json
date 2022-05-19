@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:[type=item,nbt={Item:{id:"minecraft:carrot_on_a_stick",Count:1b,tag:{CustomModelData:210}}}]"
+  ]
+}

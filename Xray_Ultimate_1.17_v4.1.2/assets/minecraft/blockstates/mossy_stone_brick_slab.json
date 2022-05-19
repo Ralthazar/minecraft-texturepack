@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/xray/mossy_stone_brick_slab" },
+        "type=top": { "model": "block/xray/mossy_stone_brick_slab_top" },
+        "type=double": { "model": "block/mossy_stone_bricks" }
+    }
+}

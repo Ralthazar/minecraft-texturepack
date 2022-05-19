@@ -1,0 +1,7 @@
+{
+"__comment": "Contributed by mirosmir 2020",
+    "parent": "minecraft:block/solid_all",
+    "textures": {
+        "all": "astromine:block/asteroid_stellum_ore"
+    }
+}

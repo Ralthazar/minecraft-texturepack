@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/xray/cube_all",
+  "textures": {
+    "all": "minecraft:block/lightly_weathered_cut_copper"
+  }
+}

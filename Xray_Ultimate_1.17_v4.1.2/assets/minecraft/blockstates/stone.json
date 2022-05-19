@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/xray/stone" },
+            { "model": "block/xray/stone_mirrored" },
+            { "model": "block/xray/stone", "y": 180 },
+            { "model": "block/xray/stone_mirrored", "y": 180 }
+        ]
+    }
+}

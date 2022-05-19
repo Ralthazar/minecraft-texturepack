@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:blocks/solid_all",
+	"textures": {
+		"all": "pixelmon:blocks/bauxiteore"
+	}
+}

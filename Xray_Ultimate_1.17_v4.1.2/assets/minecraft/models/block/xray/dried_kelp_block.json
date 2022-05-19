@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/xray/cube_bottom_top",
+    "textures": {
+        "particle": "minecraft:block/dried_kelp_side",
+        "bottom": "minecraft:block/dried_kelp_bottom",
+        "top": "minecraft:block/dried_kelp_top",
+        "side": "minecraft:block/dried_kelp_side",
+        "side": "minecraft:block/dried_kelp_side",
+        "side": "minecraft:block/dried_kelp_side",
+        "side": "minecraft:block/dried_kelp_side"
+    }
+}

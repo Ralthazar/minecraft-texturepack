@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/xray/cube_all",
+    "textures": {
+        "particle": "minecraft:block/lime_glazed_terracotta",
+        "all": "minecraft:block/lime_glazed_terracotta"
+    }
+}

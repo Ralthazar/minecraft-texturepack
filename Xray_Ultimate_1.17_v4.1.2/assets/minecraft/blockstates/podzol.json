@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "snowy=false": { "model": "block/xray/podzol" },
+        "snowy=true": { "model": "block/xray/grass_block_snow" }
+    }
+}

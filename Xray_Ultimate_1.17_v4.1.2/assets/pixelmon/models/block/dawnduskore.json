@@ -1,0 +1,9 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "minecraft:blocks/solid_all",
+    "textures": {
+      "all": "pixelmon:blocks/dawnstone"
+    }
+  }
+}

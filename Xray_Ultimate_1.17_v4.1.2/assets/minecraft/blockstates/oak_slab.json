@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/xray/oak_slab" },
+        "type=top": { "model": "block/xray/oak_slab_top" },
+        "type=double": { "model": "block/xray/oak_planks" }
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/xray/cracked_deepslate_tiles"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/xray/spruce_slab" },
+        "type=top": { "model": "block/xray/spruce_slab_top" },
+        "type=double": { "model": "block/xray/spruce_planks" }
+    }
+}

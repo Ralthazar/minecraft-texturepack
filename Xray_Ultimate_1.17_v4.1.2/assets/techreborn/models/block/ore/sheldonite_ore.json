@@ -1,0 +1,8 @@
+{
+"__comment": "Contributed by mirosmir 2020",
+    "parent": "minecraft:block/solid_all",
+    "textures": {
+        "all": "techreborn:block/ore/sheldonite_ore"
+    }
+}
+

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/xray/sand" },
+            { "model": "block/xray/sand", "y": 90 },
+            { "model": "block/xray/sand", "y": 180 },
+            { "model": "block/xray/sand", "y": 270 }
+        ]
+    }
+}

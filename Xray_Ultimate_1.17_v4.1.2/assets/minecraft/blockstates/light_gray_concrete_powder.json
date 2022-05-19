@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/xray/light_gray_concrete_powder" },
+            { "model": "block/xray/light_gray_concrete_powder", "y": 90 },
+            { "model": "block/xray/light_gray_concrete_powder", "y": 180 },
+            { "model": "block/xray/light_gray_concrete_powder", "y": 270 }
+        ]
+    }
+}

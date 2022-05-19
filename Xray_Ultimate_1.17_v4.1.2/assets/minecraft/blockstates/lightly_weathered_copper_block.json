@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/xray/lightly_weathered_copper_block"
+    }
+  }
+}

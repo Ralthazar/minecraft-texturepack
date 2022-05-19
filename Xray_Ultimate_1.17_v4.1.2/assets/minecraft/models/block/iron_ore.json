@@ -1,0 +1,8 @@
+{
+"__comment": "Copyright 2018 Filmjolk David Grindholmen",
+    "ambientocclusion": false,
+    "parent": "minecraft:block/solid_all",
+    "textures": {
+        "all": "minecraft:block/iron_ore"
+    }
+}

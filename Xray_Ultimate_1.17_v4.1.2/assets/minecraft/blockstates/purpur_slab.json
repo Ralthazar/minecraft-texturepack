@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/xray/purpur_slab" },
+        "type=top": { "model": "block/xray/purpur_slab_top" },
+        "type=double": { "model": "block/xray/purpur_block" }
+    }
+}

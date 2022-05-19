@@ -1,0 +1,6 @@
+{
+  "parent": "block/xray/cube_all",
+  "textures": {
+    "all": "mysticalagriculture:block/soulstone"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/xray/cobbled_deepslate_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/xray/cobbled_deepslate"
+    },
+    "type=top": {
+      "model": "minecraft:block/xray/cobbled_deepslate_slab_top"
+    }
+  }
+}

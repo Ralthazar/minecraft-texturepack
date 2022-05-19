@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/xray/cobbled_deepslate"
+      },
+      {
+        "model": "minecraft:block/xray/cobbled_deepslate_mirrored"
+      },
+      {
+        "model": "minecraft:block/xray/cobbled_deepslate",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/xray/cobbled_deepslate_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

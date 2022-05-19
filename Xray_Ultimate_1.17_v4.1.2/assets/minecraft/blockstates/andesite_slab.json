@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/xray/andesite_slab" },
+        "type=top": { "model": "block/xray/andesite_slab_top" },
+        "type=double": { "model": "block/xray/andesite" }
+    }
+}

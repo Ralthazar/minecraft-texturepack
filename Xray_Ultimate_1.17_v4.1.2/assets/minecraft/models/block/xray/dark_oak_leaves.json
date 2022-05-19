@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/xray/leaves",
+    "textures": {
+        "all": "minecraft:block/dark_oak_leaves"
+    }
+}

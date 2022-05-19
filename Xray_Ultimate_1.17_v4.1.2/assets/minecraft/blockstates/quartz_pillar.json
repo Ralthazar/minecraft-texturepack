@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "block/xray/quartz_pillar" },
+        "axis=z":   { "model": "block/xray/quartz_pillar", "x": 90 },
+        "axis=x":   { "model": "block/xray/quartz_pillar", "x": 90, "y": 90 }
+    }
+}

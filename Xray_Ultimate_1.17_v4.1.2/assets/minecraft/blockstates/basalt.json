@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "block/xray/basalt" },
+        "axis=z": { "model": "block/xray/basalt", "x": 90 },
+        "axis=x": { "model": "block/xray/basalt", "x": 90, "y": 90 }
+    }
+}

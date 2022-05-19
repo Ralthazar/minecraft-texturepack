@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/xray/cube_column",
+  "textures": {
+    "end": "minecraft:block/crimson_stem",
+    "side": "minecraft:block/crimson_stem"
+  }
+}

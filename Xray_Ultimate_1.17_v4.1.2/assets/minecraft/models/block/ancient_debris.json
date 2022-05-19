@@ -1,0 +1,8 @@
+{
+"__comment": "Copyright 2018 Filmjolk David Grindholmen",
+    "parent": "minecraft:block/solid_column",
+    "textures": {
+        "side": "minecraft:block/ancient_debris_side",
+	    "end": "minecraft:block/ancient_debris_top"
+    }
+}

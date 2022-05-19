@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/solid_all",
+    "textures": {
+        "all": "bno:block/netherosmium_ore"
+    }
+}

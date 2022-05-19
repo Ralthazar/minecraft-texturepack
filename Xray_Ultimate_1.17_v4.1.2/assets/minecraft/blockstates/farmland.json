@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "moisture=0": { "model": "block/xray/farmland" },
+        "moisture=1": { "model": "block/xray/farmland" },
+        "moisture=2": { "model": "block/xray/farmland" },
+        "moisture=3": { "model": "block/xray/farmland" },
+        "moisture=4": { "model": "block/xray/farmland" },
+        "moisture=5": { "model": "block/xray/farmland" },
+        "moisture=6": { "model": "block/xray/farmland" },
+        "moisture=7": { "model": "block/xray/farmland_moist" }
+    }
+}

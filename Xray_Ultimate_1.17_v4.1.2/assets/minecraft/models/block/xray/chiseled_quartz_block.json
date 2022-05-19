@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/xray/cube_column",
+    "textures": {
+        "side": "minecraft:block/chiseled_quartz_block",
+        "end": "minecraft:block/chiseled_quartz_block_top"
+    }
+}

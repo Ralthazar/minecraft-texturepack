@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/xray/prismarine_slab" },
+        "type=top": { "model": "block/xray/prismarine_slab_top" },
+        "type=double": { "model": "block/xray/prismarine" }
+    }
+}

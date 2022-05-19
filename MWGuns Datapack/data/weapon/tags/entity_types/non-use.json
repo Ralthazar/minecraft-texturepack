@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:arrow",
+    "minecraft:area_effect_cloud",
+    "minecraft:armor_stand",
+    "minecraft:fireball",
+    "minecraft:boat",
+    "minecraft:item"
+  ]
+}

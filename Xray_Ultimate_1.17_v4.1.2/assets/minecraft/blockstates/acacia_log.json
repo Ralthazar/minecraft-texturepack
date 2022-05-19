@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "block/xray/acacia_log" },
+        "axis=z":   { "model": "block/xray/acacia_log", "x": 90 },
+        "axis=x":   { "model": "block/xray/acacia_log", "x": 90, "y": 90 }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/xray/cube_column",
+    "textures": {
+        "end": "minecraft:block/purpur_pillar_top",
+        "side": "minecraft:block/purpur_pillar"
+    }
+}
